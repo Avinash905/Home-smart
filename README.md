@@ -5,7 +5,7 @@ A smart home website UI using react and tailwind css following the tutorial from
 
 [Video Link](https://youtu.be/xpGNcQDmV2A)
 
-👉[Click here](https://home-smart.netlify.app/) to check out the website.
+👉[Click here](https://home-smart-main.netlify.app/) to check out the website.
 <br/>
 
 <hr/>
